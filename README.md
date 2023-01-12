@@ -18,3 +18,5 @@
  - 10744, 10856
  - 12285, 14595
  - 17296, 18416
+
+Implementad 2 versiones: la primera utilizando dos valores en el própio código y la segunda pidiendo al usuario que introduzca A y B.
