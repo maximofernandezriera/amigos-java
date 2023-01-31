@@ -19,7 +19,6 @@
  12285, 14595
  17296, 18416 
  */
-package programacionbasica;
 
 import java.util.Scanner;
 
